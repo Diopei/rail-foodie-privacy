@@ -68,14 +68,14 @@ Opt out of personalized ads via device settings
 📌 四、聯絡方式 Contact Us
 如您對本政策有任何疑問，請透過以下方式聯絡我們：
 
-📧 Email：your@email.com
-📱 App 名稱：Your App Name
+📧 Email：498f0017@stust.edu.tw
+📱 App 名稱：Rail Foodie
 📍 開發者所在地：台灣（Taiwan）
 
 If you have any questions about this Privacy Policy, contact us at:
 
-📧 Email: your@email.com
-📱 App Name: Your App Name
+📧 Email: 498f0017@stust.edu.tw
+📱 App Name: Rail Foodie
 📍 Location: Taiwan
 
 📌 五、隱私政策更新 Updates
